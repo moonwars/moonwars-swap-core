@@ -1,6 +1,6 @@
-# PantherSwap Factory
+# MoonWars Finance Factory
 
-In-depth documentation on PancakeSwap is available at [docs.pantherswap.com](https://docs.pantherswap.com/).
+In-depth documentation on PancakeSwap is available at [https://moonwars-finance.gitbook.io/moon-wars-finance/).
 
 # Local Development
 
